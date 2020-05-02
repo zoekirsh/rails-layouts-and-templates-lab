@@ -55,5 +55,3 @@ also how to override defaults and specify layouts on the action level.
    assigned to other actions in the controller).
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-layouts-and-templates-lab' title='Rails Layouts And Templates Lab'>Rails Layouts And Templates Lab</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/rails-layouts-and-templates-lab'>Layouts And Templates in Rails Lab</a> on Learn.co and start learning to code for free.</p>
