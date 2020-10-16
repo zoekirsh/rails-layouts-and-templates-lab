@@ -54,4 +54,3 @@ also how to override defaults and specify layouts on the action level.
    we don't want it to use any layout at all (while also not affecting the layouts
    assigned to other actions in the controller).
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-layouts-and-templates-lab' title='Rails Layouts And Templates Lab'>Rails Layouts And Templates Lab</a> on Learn.co and start learning to code for free.</p>
